@@ -1,0 +1,76 @@
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.AssemblyReference.cache
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.SuggestedBindingRedirects.cache
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form1.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Properties.Resources.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.GenerateResource.cache
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.CoreCompileInputs.cache
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe.config
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.pdb
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.exe
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.pdb
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2.mdf
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2_log.ldf
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form2.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form3.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.MovieShow.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2.mdf
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2_log.ldf
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe.config
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.pdb
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.AssemblyReference.cache
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.SuggestedBindingRedirects.cache
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form1.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form2.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form3.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form4.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.MovieShow.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Properties.Resources.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.GenerateResource.cache
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.CoreCompileInputs.cache
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.exe
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.pdb
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form5.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form6.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form7.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form8.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form9.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form10.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form11.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2.mdf
+E:\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\Database2_log.ldf
+E:\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe.config
+E:\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.exe
+E:\WindowsFormsApp150\WindowsFormsApp150\bin\Debug\WindowsFormsApp150.pdb
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.AssemblyReference.cache
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.SuggestedBindingRedirects.cache
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form1.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form10.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form11.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form2.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form3.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form4.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form5.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form6.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form7.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form8.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form9.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.MovieShow.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Properties.Resources.resources
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.GenerateResource.cache
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.exe
+E:\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.pdb
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form10.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form11.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form4.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form5.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form6.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form7.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form8.resources
+D:\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form9.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form12.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form13.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form14.resources
+D:\cinema event\event pro\WindowsFormsApp150\WindowsFormsApp150\obj\Debug\WindowsFormsApp150.Form15.resources
